@@ -8,7 +8,9 @@ body{
     flex-direction: row-reverse;
     background-color: #ffffff;
     width: 1200px;
-    margin: 0 auto;
+    margin: 0 auto; border-radius: 0% 10% 0% 0%;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2);
+    
 }
 /* Main content */
 .main-content{
